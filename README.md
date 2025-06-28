@@ -20,9 +20,10 @@ Add details of Rust creators whose work you admire to the table below.
 
 Include their name, GitHub handle (if available), a link to their content or contributions, and your name or handle as the nominator.
 
-| Creator Name             | GitHub Handle(if any)   | Link to Content             | Nominated By      |
-|--------------------------|-------------------------|-----------------------------|-------------------|
-|                          |                         |                             |                   |
+   Creator Name             GitHub Handle(if any)    Link to Content              Nominated By 
+  
+- Amos Wenger . [https://github.com/fasterthanlime](https://github.com/fasterthanlime). [https://fasterthanli.me/](https://fasterthanli.me/). John
+- Creator Name . [Github Handle](Github Handle) . [link to content](link to content). [Nominated by](Nominated by)
 
 
 
