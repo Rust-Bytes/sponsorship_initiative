@@ -9,13 +9,12 @@ With this in mind, we plan to sponsor some of these individuals in the near futu
 
 If you know someone whose Rust-related content or work you admire, we’d love to hear about them and consider supporting their efforts.
 
-Help us by sharing their names via the GitHub link here.
+Help us by sharing their information below.
 
-### Nomination Process
-- **Who Can Nominate**: Anyone in the Rust community can nominate a creator whose work they admire.
-- **What to Share**: Provide the name of the individual and a brief description of their contributions to the Rust community.
-- **Where to Submit**: Add your nomination to the section below.
-- **Selection Criteria**: We’ll review nominations based on the quality, impact, and relevance of the individual’s contributions to the Rust ecosystem.
+### Process
+- **Who Can Nominate** - Anyone can nominate a creator whose work they admire.
+- **What to Share** - Provide the name of the individual and a brief description of their contributions to the Rust community.
+- **Where to Submit** - Add your nomination to the section below.
 
 ## Amazing Creators
 
