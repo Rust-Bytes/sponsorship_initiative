@@ -22,8 +22,8 @@ Include their name, GitHub handle (if available), a link to their content or con
 
    Creator Name             GitHub Handle(if any)    Link to Content              Nominated By 
   
-- Amos Wenger . [https://github.com/fasterthanlime](https://github.com/fasterthanlime). [https://fasterthanli.me/](https://fasterthanli.me/). John
-- Creator Name . [Github Handle](Github Handle) . [link to content](link to content). [Nominated by](Nominated by)
+1. Amos Wenger . [https://github.com/fasterthanlime](https://github.com/fasterthanlime). [https://fasterthanli.me/](https://fasterthanli.me/). John
+2. Creator Name . [Github Handle](Github Handle) . [link to content](link to content). [Nominated by](Nominated by)
 
 
 
