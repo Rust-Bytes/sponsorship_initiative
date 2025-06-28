@@ -16,7 +16,9 @@ Help us by sharing their information below.
 
 ## Amazing Creators
 
-Add details of Rust creators whose work you admire to the table below. Include their name, GitHub handle (if available), a link to their content or contributions, and your name or handle as the nominator.
+Add details of Rust creators whose work you admire to the table below. 
+
+Include their name, GitHub handle (if available), a link to their content or contributions, and your name or handle as the nominator.
 
 | Creator Name             | GitHub Handle(if any)   | Link to Content             | Nominated By      |
 |--------------------------|-------------------------|-----------------------------|-------------------|
