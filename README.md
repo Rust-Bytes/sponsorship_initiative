@@ -1,8 +1,6 @@
 
 # Rust Bytes Sponsorship Initiative
 
-## Future Projections
-
 We know many talented Rust engineers who create exceptional content, courses, resources, and tools that greatly benefit the Rust community. 
 
 With this in mind, we plan to sponsor some of these individuals in the near future.
