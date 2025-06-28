@@ -9,7 +9,7 @@ If you know someone whose Rust-related content or work you admire, we’d love t
 
 Help us by sharing their information below.
 
-### Process
+## Process
 - **Who Can Nominate** - Anyone can nominate a creator whose work they admire.
 - **What to Share** - Provide the name of the individual and a brief description of their contributions to the Rust community.
 - **Where to Submit** - Add your nomination to the section below.
